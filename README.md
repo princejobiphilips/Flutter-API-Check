@@ -1,6 +1,6 @@
-# sample_one
+# Flutter API check
 
-A new Flutter project.
+API link - https://student-api-nodejs.herokuapp.com/
 
 ## Getting Started
 
